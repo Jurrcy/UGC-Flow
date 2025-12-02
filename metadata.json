@@ -1,0 +1,5 @@
+{
+  "name": "UGC Flow AI",
+  "description": "Streamlined AI UGC content creation workflow using Gemini 3 Pro and Nano Banana models.",
+  "requestFramePermissions": []
+}
